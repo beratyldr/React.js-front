@@ -3,12 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@hesenger/react-simpletable": "^0.3.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-routes": "^0.2.6",
     "react-scripts": "4.0.3",
+    "react-table": "^7.7.0",
+    "sheet-happens": "^0.0.8",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
